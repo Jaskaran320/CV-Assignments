@@ -1,0 +1,8 @@
+data/
+Q1/wandb/
+Q1/model_1.pth
+Q1/model_2.pth
+Q1/model_3.pth
+Q2/wandb/
+Q2/model_1.pth
+Q2/model_2.pth
